@@ -1,6 +1,6 @@
-## Jueun Sung | 성주은
+# Jueun Sung | 성주은
 
-# Undergraduate Researcher | Autonomous Driving & Vehicle Control
+## Undergraduate Researcher | Autonomous Driving & Vehicle Control
 
 Exploring End-to-End Autonomous Driving, Vehicle Dynamics, Truck Platooning and Vehicle Software through ROS2 and CARLA. 
 
