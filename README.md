@@ -1,4 +1,4 @@
-# Jueun Sung | 성주은
+# Jueun Sung, 성주은
 
 ## Undergraduate Researcher | Autonomous Driving & Vehicle Control
 
